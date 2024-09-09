@@ -37,9 +37,9 @@ It encourages continuous testing and integration of changes, improving code stab
 Developers can identify issues with their changes early, leading to quicker fixes.
 
 ## Main Branch Stability Concerns
-Will it mean the possibility that some code in the main branch could be broken (not in stable tags)?
+Will it mean the possibility that some code in the main branch could be broken (not in stable tags or branches)?
 
-Yes, merging early and often can increase the chance that code in the main branch may occasionally be unstable or broken. However, this is typically managed with additional practices in modern software development, such as:
+**Yes**, merging early and often can increase the chance that code in the main branch may occasionally be unstable or broken. However, this is typically managed with additional practices in modern software development, such as:
 
 ### Continuous Integration (CI)
 Frequent automated testing ensures that as soon as changes are merged, tests are run to catch issues early. While not foolproof, CI can help prevent most broken code from reaching the main branch.
