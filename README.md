@@ -1,4 +1,3 @@
-```markdown
 # Merge Early, Merge Often
 
 ## Table of Contents
