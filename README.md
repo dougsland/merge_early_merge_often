@@ -72,5 +72,5 @@ Even if the main branch experiences instability, stable tags mark specific, well
 In short, while "merge early, merge often" increases the frequency of changes and could introduce temporary instability in the main branch, good practices such as CI, feature branching, and stable tagging can minimize the impact on overall project stability, all while encouraging a culture of innovation and faster development.
 
 ## Useful Links
-https://blog.nerdbank.net/2020/01/should-i-merge-or-rebase-in-git
+https://blog.nerdbank.net/2020/01/should-i-merge-or-rebase-in-git  
 https://www.kernel.org/doc/html/latest/process/2.Process.html
